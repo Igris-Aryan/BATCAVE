@@ -1,0 +1,7 @@
+{
+  "name": "Smart Grid Cyberattack Detection AI",
+  "description": "Smart Grid AI-IDS monitoring dashboard analyzing network intrusion traffic and batch CSV threat detection using Machine Learning based on CIC-IDS2017.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
